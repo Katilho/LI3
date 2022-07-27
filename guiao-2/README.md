@@ -6,7 +6,7 @@ Este comando gera o executável.
 ```
 $ make
 ```  
-Este comando corre o executável.
+Este comando executa as queries especificadas no ficheiro de texto "commands.txt".
 ```
 $ make test
 ```  
